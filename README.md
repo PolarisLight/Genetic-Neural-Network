@@ -5,7 +5,7 @@ A brainstorm that combine genetic algorithm and neural network
 思路和实现方法极其简单，仅做分享。
 
 ## requirement:
-torch >=1.8.1+cu111
+torch >=1.8.1+cu111\\
 numpy >=1.20.3
 tqdm
 
